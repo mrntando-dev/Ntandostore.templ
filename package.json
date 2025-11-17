@@ -1,0 +1,15 @@
+{
+  "name": "ntando-store",
+  "version": "1.0.0",
+  "description": "Ntando Premium Digital Services Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["domains", "hosting", "design", "apps"],
+  "author": "Ntando",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
